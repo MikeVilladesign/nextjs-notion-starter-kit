@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Mike Villa',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Mike Villa Portfolio',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
